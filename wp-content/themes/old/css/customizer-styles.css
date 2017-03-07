@@ -1,0 +1,107 @@
+/**
+ * The template for Customizer style.
+ *
+ * @package Elite
+ */
+#customize-theme-controls .accordion-section-title {
+			color: #333;	
+			
+		}
+
+#customize-theme-controls .change-theme {
+	background-color: #eee;
+}
+
+#customize-theme-controls .accordion-section-title:before{
+    font-family: dashicons;
+    position: relative;
+    top: 4px;
+    right: 2px;
+    font-size: 19px;
+    font-weight: 400	
+}
+
+/*
+tagline icon
+ */
+#customize-theme-controls #accordion-section-title_tagline>h3.accordion-section-title:before{
+	content: "\f337";
+
+}
+
+/*
+header icon
+ */
+#customize-theme-controls #accordion-section-header_image>h3.accordion-section-title:before{
+	content: "\f317";
+}
+
+/*
+background icon
+ */
+#customize-theme-controls #accordion-section-background_image>h3.accordion-section-title:before{
+	content: "\f128";
+}
+
+/*
+Menus icon
+ */
+#customize-theme-controls #accordion-panel-nav_menus>h3.accordion-section-title:before{
+	content: "\f108";
+}
+
+/*
+Widgets icon
+ */
+#customize-theme-controls #accordion-panel-widgets>h3.accordion-section-title:before{
+	content: "\f116";
+}
+
+/*
+Front page settings icon
+ */
+#customize-theme-controls #accordion-section-static_front_page>h3.accordion-section-title:before{
+	content: "\f497";
+}
+
+/*
+Services settings icon
+ */
+#customize-theme-controls #accordion-section-custom_services_section>h3.accordion-section-title:before{
+	content: "\f541";
+}
+
+/*
+Team settings icon
+ */
+#customize-theme-controls #accordion-section-custom_team_section>h3.accordion-section-title:before{
+	content: "\f307";
+}
+
+/*
+Works settings icon
+ */
+#customize-theme-controls #accordion-section-custom_works_section>h3.accordion-section-title:before{
+	content: "\f232";
+}
+
+/*
+Footer settings icon
+ */
+#customize-theme-controls #accordion-section-elite_custom_footer>h3.accordion-section-title:before{
+	content: "\f316";
+}
+
+/*
+Custom CSS icon
+ */
+#customize-theme-controls #accordion-section-custom_css_field>h3.accordion-section-title:before{
+	content: "\f540";
+}
+
+/*
+Custom Testimonials icon
+ */
+#customize-theme-controls #accordion-section-custom_testimonials_section>h3.accordion-section-title:before{
+	content: "\f122";
+}
