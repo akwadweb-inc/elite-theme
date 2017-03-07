@@ -1,0 +1,23 @@
+/* 
+adding icon to wp admin bar
+*/
+
+#wpadminbar #wp-admin-bar-custom-cusotmize span.ab-icon:before {
+   content: "\f540";
+    top: 3px;
+}
+
+
+#wpadminbar #wp-admin-bar-elite_akwadweb span.ab-icon img{
+    float:left; width:22px !important; height:17px !important;
+    margin-left: 5px !important; margin-top:3px; 
+     filter:brightness(200%);
+
+}
+
+#dashboard-widgets #postbox-container-1 #normal-sortables  #elite_dashboard_widget  h2.hndle{
+	    background-color: #333;
+    color: #fff;
+
+}
+
