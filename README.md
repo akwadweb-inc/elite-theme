@@ -1,2 +1,2 @@
 
-Elete-Theme Powerd by Akwadweb 
+Elite-Theme Powerd by Akwadweb 
